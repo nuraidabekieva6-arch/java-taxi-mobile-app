@@ -1,11 +1,26 @@
-# 🚕 Taxi Mobile Application (Java / Android)
+# 🚕 Mobile Taxi App (Java / Android)
 
-Мобильное приложение для онлайн-заказа такси, выбора тарифов и отслеживания маршрута поездки.
+Мобильное приложение для заказа такси, выбора тарифов и отслеживания маршрута поездки. Разработано в фирменном жёлто-чёрном стиле (Dark/Yellow Theme).
 
 ---
 
-## 🎨 Интерфейс приложения (Dark & Yellow Theme)
+## 🎨 Интерфейс мобильного приложения
 
-| 📱 Главный экран заказа | 🗺 Выбор маршрута на карте | 🚕 Подтверждение и тарифы |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/design-assets/taxi-ui-demo/main/screen1.png" width="220" alt="Экран заказа" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1556122071-e404eaedb77f?w=500&auto=format&fit=crop&q=80';"/> | <img src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=500&auto=format&fit=crop&q=80" width="220" alt="Карта"/> | <img src="https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=500&auto=format&fit=crop&q=80" width="220" alt="Такси"/> |
+![Яндекс Такси Интерфейс](https://yastatic.net/s3/doc-binary/src/support/go/ru/concept/images/mobile/ru/screen_main.png)
+
+---
+
+## 🚀 Основной функционал
+
+- **Заказ такси:** Ввод маршрута (А ➔ В) с автоматическим расчётом стоимости поездки.
+- **Выбор класса:** Эконом, Комфорт, Бизнес.
+- **Отслеживание статуса:** Отображение этапов («Поиск водителя», «Водитель в пути», «Завершён»).
+- **Управление заказами:** Просмотр истории и активных поездок.
+
+---
+
+## 🛠 Технологический стек
+
+- **Язык программирования:** Java (JDK 17+)
+- **Архитектура:** ООП (Объектно-ориентированное программирование), MVC
+- **Платформа:** Android / Java Swing
