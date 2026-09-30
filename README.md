@@ -1,27 +1,11 @@
-# 🚕 Taxi Mobile App — Java Application
+# 🚕 Taxi Mobile Application (Java / Android)
 
-Мобильное/десктопное приложение для онлайн-заказа такси и управления поездками, разработанное на Java.
+Мобильное приложение для онлайн-заказа такси, выбора тарифов и отслеживания маршрута поездки.
 
-## 🎨 Интерфейс приложения (UI/UX)
+---
 
-| Экран заказа | Выбор маршрута | Подтверждение поездки |
+## 🎨 Интерфейс приложения (Dark & Yellow Theme)
+
+| 📱 Главный экран заказа | 🗺 Выбор маршрута на карте | 🚕 Подтверждение и тарифы |
 | :---: | :---: | :---: |
-| <img src="https://images.unsplash.com/photo-1557223562-6c77ef16210f?q=80&w=600&auto=format&fit=crop" width="250" alt="Экран заказа"/> | <img src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?q=80&w=600&auto=format&fit=crop" width="250" alt="Выбор маршрута"/> | <img src="https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?q=80&w=600&auto=format&fit=crop" width="250" alt="Подтверждение"/> |
-
-## 🚀 Основной функционал
-
-**Заказ такси:** Ввод маршрута (А ➔ В) с автоматическим расчётом стоимости поездки.
-**Выбор класса:** Эконом, Комфорт, Бизнес.
-**Отслеживание статуса:** Отображение этапов («Поиск водителя», «Водитель в пути», «Завершён»).
-**Управление заказами:** Просмотр истории и активных поездок.
-## 🛠 Технологический стек
-
-**Язык программирования:** Java (JDK 17+)
-**Графический интерфейс:** Java Swing / AWT
-**Сборка проекта:** Maven / Gradle
-**Архитектура:** ООП (Объектно-ориентированное программирование), MVC
-## 💻 Инструкция по запуску
-
-1. Клонируйте репозиторий:
-   ```bash
-   git clone [https://github.com/nuraidabekieva6-arch/java-taxi-mobile-app.git](https://github.com/nuraidabekieva6-arch/java-taxi-mobile-app.git)
+| <img src="https://raw.githubusercontent.com/design-assets/taxi-ui-demo/main/screen1.png" width="220" alt="Экран заказа" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1556122071-e404eaedb77f?w=500&auto=format&fit=crop&q=80';"/> | <img src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=500&auto=format&fit=crop&q=80" width="220" alt="Карта"/> | <img src="https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=500&auto=format&fit=crop&q=80" width="220" alt="Такси"/> |
