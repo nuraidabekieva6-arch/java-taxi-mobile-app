@@ -6,7 +6,7 @@
 
 | Главный экран | Выбор маршрута и тарифа | Подтверждение заказа |
 | :---: | :---: | :---: |
-| <img src="screen1.png" width="220" alt="Экран 1"/> | <img src="screen2.png" width="220" alt="Экран 2"/> | <img src="screen3.png" width="220" alt="Экран 3"/> |
+| <img src="Screen1.png" width="220" alt="Экран 1"/> | <img src="screen2.png" width="220" alt="Экран 2"/> | <img src="screen3.png" width="220" alt="Экран 3"/> |
 
 ## 🚀 Основной функционал
 
